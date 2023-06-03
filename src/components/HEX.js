@@ -1,5 +1,5 @@
-export default function HexInput({ handlerChange }) {
+export default function HEX({ handlerChange }) {
 	return (
-		<input type="text" onChange={handlerChange}/>
+		<input className='hex' type="text" onChange={handlerChange}/>
 	)
 }
