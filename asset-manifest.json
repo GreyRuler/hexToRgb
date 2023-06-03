@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hexToRgb/static/css/main.19ab77ee.css",
+    "main.js": "/hexToRgb/static/js/main.13999cbd.js",
+    "static/js/787.0abda98a.chunk.js": "/hexToRgb/static/js/787.0abda98a.chunk.js",
+    "index.html": "/hexToRgb/index.html",
+    "main.19ab77ee.css.map": "/hexToRgb/static/css/main.19ab77ee.css.map",
+    "main.13999cbd.js.map": "/hexToRgb/static/js/main.13999cbd.js.map",
+    "787.0abda98a.chunk.js.map": "/hexToRgb/static/js/787.0abda98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ab77ee.css",
+    "static/js/main.13999cbd.js"
+  ]
+}
